@@ -1,0 +1,44 @@
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\4M4D3US\Desktop\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Datos.dll
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+D:\Descargas\SistemaEscolarBasico1\SistemaEscolarBasico1\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\user\source\repos\PROYECTO III\sistema_colegio\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Jorge\source\repos\proyectogrupallp2u3-tgu1_castaned_escobar_villanuev_cuadro\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
